@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Employee Management System',
     domain: 'Web Development',
-    link: "https://employee-management-system-olive-mu.vercel.app/",
+    link: "https://employee-management-sys-foryou.vercel.app/",
     description: 'An employee management system for Companies to manage their employees having 4 roles ( Admin, HR, Department manager, Employee ) with real time updates.',
     technologies: ['Next.js', 'Tailwind Css', 'PERN','Real time Subscription']
   },
