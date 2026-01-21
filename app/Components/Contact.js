@@ -30,7 +30,7 @@ export default function ContactSection() {
                             </div>
                             <div className="bg-[#111111fa] border border-[#222222] p-4 rounded-lg transition-all duration-200 hover:scale-[99%] hover:ml-2">
                                 <strong className="flex gap-2 items-center mb-1 "><Image src="/linkedinn.webp" height={25} width={25} className="invert" alt="Image"/> LinkedIn</strong>
-                                <a href="https://www.linkedin.com/in/shehzil-shahzad-563b8031a/" className="ml-6 text-[#ff2c2c] hover:text-[#fd1919]">Muhammad Shahzil Shahzad</a>
+                                <a href="https://www.linkedin.com/in/shahzil-shahzad-563b8031a/" className="ml-6 text-[#ff2c2c] hover:text-[#fd1919]">Muhammad Shahzil Shahzad</a>
                             </div>
                             <div className="bg-[#111111fa] border border-[#222222] p-4 rounded-lg transition-all duration-200 hover:scale-[99%] hover:ml-2">
                                 <strong className="flex gap-2 items-center mb-1 "><Image src="/github.webp" height={25} width={25} className="invert" alt="Image"/> GitHub</strong>
